@@ -1,51 +1,74 @@
-# Frontend Mentor - Testimonials grid section solution
 
-This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+# Frontend Mentor – Testimonials Grid Section
 
-## Table of contents
+A responsive **testimonials grid** built with **HTML** and **CSS** for the [Frontend Mentor challenge](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).  
+This project focuses on mastering **CSS Grid** and **responsive layouts** across various screen sizes.
 
--   [Overview](#overview)
-    -   [The challenge](#the-challenge)
-    -   [Screenshot](#screenshot)
-    -   [Links](#links)
--   [My process](#my-process)
-    -   [Built with](#built-with)
-    -   [What I learned](#what-i-learned)
--   [Author](#author)
+---
 
-## Overview
+## 🌐 Live Demo
+[View Live on GitHub Pages](https://ibrahim-rezq.github.io/frontendmentor-testimonials-grid/)
 
-### The challenge
+---
 
-Users should be able to:
+## 🖼️ Preview
+![](./images/screenshot.png)
 
--   View the optimal layout for the site depending on their device's screen size
+---
 
-### Screenshot
+## 🎯 Purpose
+This project was created as part of my continuous learning journey in front-end development.  
+It helped me practice:
+- Structuring a layout using **CSS Grid** and **Flexbox**
+- Building a clean, accessible, and responsive component-based design
+- Translating a Figma-style mockup into code with pixel precision
 
-![./images/screenshot.png]
+---
 
-### Links
+## 💡 Learning Takeaways
+While working on this challenge, I learned to:
+- Use **CSS Grid areas** effectively for multi-column layouts  
+- Apply **mobile-first principles** and responsive scaling  
+- Manage **typography and spacing** consistently across breakpoints  
+- Develop a deeper understanding of **component alignment and visual hierarchy**
 
-- Solution URL: [Testimonials-grid-section-challenge solution](https://github.com/Ibrahim-Rezq/Testimonials-grid-section-challenge)
-- Live Site URL: [Testimonials-grid-section-challenge live site](https://ibrahim-rezq.github.io/Testimonials-grid-section-challenge/)
+---
 
-## My process
+## 🧩 Technologies Used
+- **HTML5**
+- **CSS3**
+- **Flexbox**
+- **CSS Grid**
+- **Mobile-first workflow**
 
-### Built with
+No frameworks or libraries were used — this project relies solely on semantic HTML and clean CSS.
 
--   Semantic HTML5 markup
--   CSS custom properties
--   Flexbox
--   CSS Grid
--   Mobile-first workflow
+---
 
-### What I learned
+## 🚀 Getting Started
 
-Doing this challenge helped me to get more comfortable with my CSS grid skills
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Ibrahim-Rezq/frontendmentor-testimonials-grid.git
+   ```
 
-## Author
+2. Open the project folder and launch `index.html` in your browser.
 
-<!-- -   Website - [Ibrahim-Rezk](https://www.your-site.com) -->
--   Frontend Mentor - [@Ibrahim-Rezq](https://www.frontendmentor.io/profile/Ibrahim-Rezq)
-<!-- -   Twitter - [@yourusername](https://www.twitter.com/yourusername) -->
+---
+
+## 🧠 Challenge Info
+
+This project is a solution to the [Testimonials Grid Section Challenge](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7) from Frontend Mentor, which provides realistic UI challenges to improve front-end skills.
+
+---
+
+## 👨‍💻 Author
+
+* **Frontend Mentor** – [@Ibrahim-Rezq](https://www.frontendmentor.io/profile/Ibrahim-Rezq)
+* **GitHub** – [Ibrahim-Rezq](https://github.com/Ibrahim-Rezq)
+
+---
+
+## ⚖️ License
+
+This project is shared under the **MIT License** — free to use, modify, and learn from.
